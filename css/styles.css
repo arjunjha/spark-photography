@@ -228,7 +228,7 @@ background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
   line-height: 1.5;
   color: #fff;
   margin: 0;
-  
+
 }
 .contact-txt {
   background-color: #fe9801;
@@ -253,4 +253,32 @@ background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
   line-height: 1.5;
   text-align: center;
   color: #fff;
+}
+
+
+
+
+#footer {
+  background-image: url(https://images.hdqwalls.com/download/pink-sunset-minimal-4k-qb-1920x1080.jpg);
+  padding: 7% 15%;
+}
+.footer-text {
+  color: #fff;
+  text-align: center;
+  font-family: monospace;
+}
+.p-contact {
+  margin: 20px auto;
+  text-align: center;
+font-family: monospace;
+font-size: 35px;
+margin-bottom: 0;
+padding-bottom: 25px;
+color: white;
+}
+.footer-body {
+  padding: 7% 15%;
+}
+.gmail-img {
+transform: rotate(25deg);
 }
