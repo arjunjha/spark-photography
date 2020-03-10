@@ -174,7 +174,7 @@ background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
 }
 .prize-text {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merienda One', cursive;
   font-size: 5.2rem;
   line-height: 1.5;
   color: #fff;
@@ -196,7 +196,7 @@ background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
 }
 .about-text {
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merienda One', cursive;
   font-size: 5.2rem;
   line-height: 1.5;
   color: #fff;
@@ -223,7 +223,7 @@ background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
 .contact-text {
   background-color: #fe9801;
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merienda One', cursive;
   font-size: 5.2rem;
   line-height: 1.5;
   color: #fff;
@@ -243,12 +243,17 @@ background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
 
 
 /* faq styling */
+
+
+#faq-section {
+  padding: 7% 15%;
+}
 .faq-body {
   background-image: url(https://images.hdqwalls.com/download/star-wars-stormtrooper-minimal-art-z4-1920x1080.jpg);
-  padding:7% 15%;
+
 }
 .faq-heading {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merienda One', cursive;
   font-size: 5.2rem;
   line-height: 1.5;
   text-align: center;
@@ -262,11 +267,6 @@ background-image: url(http://getwallpapers.com/wallpaper/full/d/c/9/26024.jpg);
   background-image: url(https://images.hdqwalls.com/download/pink-sunset-minimal-4k-qb-1920x1080.jpg);
   padding: 7% 15%;
 }
-.footer-text {
-  color: #fff;
-  text-align: center;
-  font-family: monospace;
-}
 .p-contact {
   margin: 20px auto;
   text-align: center;
@@ -279,6 +279,51 @@ color: white;
 .footer-body {
   padding: 7% 15%;
 }
+.email-link {
+  text-align: center;
+}
 .gmail-img {
-transform: rotate(25deg);
+padding-left: 385px;
+}
+
+
+/* ending-text */
+#ending-tag {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-image: url(https://images.hdqwalls.com/download/pink-sunset-minimal-4k-qb-1920x1080.jpg);
+}
+.ending-text{
+ text-shadow: 2px 2px 8px #000;
+ text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+  color: #fff;
+
+}
+
+
+/* rules page styling */
+
+#rules {
+  background-color: #111d5e;
+}
+.rules-body {
+  text-align: center;
+}
+.rules-heading {
+  font-family: 'Merienda One', cursive;
+  font-size: 10rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #fff;
+}
+.rules-body-text {
+  color: #fcd307;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Merienda One', cursive;
+
 }
